@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OakHarbor/Starter-Kit-v4-Eleventy-.git"
+    "url": "git+https://github.com/kelnicmana/sparkle-motion-fiber-art.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OakHarbor/Starter-Kit-v4-Eleventy-/issues"
+    "url": "https://github.com/kelnicmana/sparkle-motion-fiber-art/issues"
   },
-  "homepage": "https://github.com/OakHarbor/Starter-Kit-v4-Eleventy-#readme",
+  "homepage": "https://github.com/kelnicmana/sparkle-motion-fiber-art#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-navigation": "^0.3.5"
